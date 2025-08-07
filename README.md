@@ -53,3 +53,6 @@ Maddison Kiefer
 - Online Users List: Display a list of connected/active users.
 - Error Handling: Improve frontend/backend error handling and user feedback.
 - Unit & Integration Tests: Add tests using tools like Jest and React Testing Library.
+
+### Demo
+Watch the demo here: https://youtu.be/axocBNUIy3E
